@@ -11,6 +11,7 @@
 
     <modules>
         <module>jpa-entities</module>
+        <module>from-intellij</module>
     </modules>
 
     <properties>
